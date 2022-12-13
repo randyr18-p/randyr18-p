@@ -13,7 +13,7 @@ I am  Web developer able to build a Web presence from the ground up - from conce
 
 
 ```javascript
-const thai = {
+const randyr = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS,  Python,],
   technologies: {
