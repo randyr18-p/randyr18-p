@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Randyr Pineda</h1>
-<h3 align="center">A passionate frontend developer from colombia</h3>
+<h3 align="center">A passionate web developer from colombia</h3>
 
 <div>
  <p>
