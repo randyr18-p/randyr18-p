@@ -23,7 +23,7 @@ const randyr = {
         },
         backEnd: {
             js: ["node", "express", ],
-            python: ["flask"]
+            python: ["Django"]
         },
        database:["mongodb", "mysql","sqlite"]
 
