@@ -32,7 +32,7 @@ const randyr = {
 ```
 
 
-- 💬 Ask me about **html css javascript, php, laravel, liviwire, vue js, fastapi, django **
+- 💬 Ask me about **html css javascript, php, laravel, livewire, vue js, fastapi, django **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
