@@ -15,17 +15,18 @@ I am  Web developer able to build a Web presence from the ground up - from conce
 ```javascript
 const randyr = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS,  Python,],
+  code: [PHP, Javascript, Typescript, HTML, CSS,  Python,],
   technologies: {
         frontEnd: {
-            js: ["React", "Angular"],
-            css: ["materialize", "bootstrap", "sass"]
+            js: ["Laravel", "Vuejs", "Reactjs"],
+            css: ["Tailwind", "bootstrap", ]
         },
         backEnd: {
+            PHP: ["LARAVEL", "LIVEWIRE","BAGISTO", ],
             js: ["node", "express", ],
-            python: ["Django"]
+            python: ["Fastapi", "Django"]
         },
-       database:["mongodb", "mysql","sqlite"]
+       database:["mongodb", "mysql","postgres sql"]
 
 }
 ```
